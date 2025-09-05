@@ -1,1 +1,4 @@
-# Data4ghana-
+node_modules/
+.next/
+.env
+.DS_Store
